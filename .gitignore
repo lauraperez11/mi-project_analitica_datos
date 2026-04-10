@@ -1,0 +1,5 @@
+venv/
+data/raw/*.csv
+database/
+*.db
+.DS_Store
